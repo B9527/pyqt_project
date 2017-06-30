@@ -1,0 +1,9 @@
+/log
+.idea
+config.conf
+.DS_Store
+
+*.db
+/video_capture
+__pycache__
+/qml/code/
